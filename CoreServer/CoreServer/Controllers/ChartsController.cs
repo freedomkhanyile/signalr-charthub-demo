@@ -23,7 +23,7 @@ namespace CoreServer.Controllers
         {
             var timerManager = new TimerManager(() => _hub.Clients.All.SendAsync("clientPolicyCallbackChartData", DataManager.GetData()));
 
-            return Ok(timerManager);
+            return Ok(new { Message = "Request completed" });
         }
     }
 }

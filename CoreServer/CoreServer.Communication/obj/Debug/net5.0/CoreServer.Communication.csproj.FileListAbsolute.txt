@@ -1,0 +1,12 @@
+C:\Users\freed\source\repos\signalr-charthub-demo\CoreServer\CoreServer.Communication\bin\Debug\net5.0\CoreServer.Communication.deps.json
+C:\Users\freed\source\repos\signalr-charthub-demo\CoreServer\CoreServer.Communication\bin\Debug\net5.0\CoreServer.Communication.dll
+C:\Users\freed\source\repos\signalr-charthub-demo\CoreServer\CoreServer.Communication\bin\Debug\net5.0\CoreServer.Communication.pdb
+C:\Users\freed\source\repos\signalr-charthub-demo\CoreServer\CoreServer.Communication\obj\Debug\net5.0\CoreServer.Communication.csproj.AssemblyReference.cache
+C:\Users\freed\source\repos\signalr-charthub-demo\CoreServer\CoreServer.Communication\obj\Debug\net5.0\CoreServer.Communication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\freed\source\repos\signalr-charthub-demo\CoreServer\CoreServer.Communication\obj\Debug\net5.0\CoreServer.Communication.AssemblyInfoInputs.cache
+C:\Users\freed\source\repos\signalr-charthub-demo\CoreServer\CoreServer.Communication\obj\Debug\net5.0\CoreServer.Communication.AssemblyInfo.cs
+C:\Users\freed\source\repos\signalr-charthub-demo\CoreServer\CoreServer.Communication\obj\Debug\net5.0\CoreServer.Communication.csproj.CoreCompileInputs.cache
+C:\Users\freed\source\repos\signalr-charthub-demo\CoreServer\CoreServer.Communication\obj\Debug\net5.0\CoreServer.Communication.dll
+C:\Users\freed\source\repos\signalr-charthub-demo\CoreServer\CoreServer.Communication\obj\Debug\net5.0\refint\CoreServer.Communication.dll
+C:\Users\freed\source\repos\signalr-charthub-demo\CoreServer\CoreServer.Communication\obj\Debug\net5.0\CoreServer.Communication.pdb
+C:\Users\freed\source\repos\signalr-charthub-demo\CoreServer\CoreServer.Communication\obj\Debug\net5.0\ref\CoreServer.Communication.dll

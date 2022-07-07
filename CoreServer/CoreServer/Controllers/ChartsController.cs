@@ -21,9 +21,10 @@ namespace CoreServer.Controllers
         [HttpGet]
         public IActionResult Get()
         {
-            var timerManager = new TimerManager(() => _hub.Clients.All.SendAsync("clientPolicyCallbackChartData", DataManager.GetData()));
+            var chatData = DataManager.GetData();
+            var timerManager = new TimerManager(() => _hub.Clients.All.SendAsync("clientPolicyCallbackChartData", chatData));
 
-            return Ok(new { Message = "Request completed" });
+            return Ok(chatData);
         }
     }
 }

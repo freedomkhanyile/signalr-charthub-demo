@@ -24,7 +24,6 @@ export class SignalRService {
   public addTransferChartDataLister() {
     this.hubConnection.on('clientPolicyCallbackChartData', (data) => {
       this.data = data;
-      console.log(data);
     });
   }
 

@@ -5,14 +5,12 @@ namespace CoreServer.TimerFeatures
 {
     public class TimerManager
     {
-
-
         public TimerManager(Action action)
         {
 
             _action = action;
             _autorResetEvent = new AutoResetEvent(false);
-            _timer = new Timer(ExecuteTimer, _autorResetEvent, 1000, 2000);
+            _timer = new Timer(ExecuteTimer, _autorResetEvent, 5000, 10000);
             TimerStarted = DateTime.UtcNow.ToLocalTime();
         }
         private Timer _timer;

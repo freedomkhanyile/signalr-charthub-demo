@@ -1,3 +1,4 @@
+using CoreServer.Communication;
 using CoreServer.Hubs;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
@@ -34,6 +35,7 @@ namespace CoreServer
                 .AllowAnyHeader()
                 .AllowCredentials());
             });
+            services.AddCommunication();
             services.AddSignalR();
             services.AddControllers();
             services.AddSwaggerGen(c =>

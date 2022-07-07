@@ -56,3 +56,7 @@ C:\Users\freed\source\repos\signalr-charthub-demo\CoreServer\CoreServer\obj\Debu
 C:\Users\freed\source\repos\signalr-charthub-demo\CoreServer\CoreServer\obj\Debug\net5.0\CoreServer.pdb
 C:\Users\freed\source\repos\signalr-charthub-demo\CoreServer\CoreServer\obj\Debug\net5.0\CoreServer.genruntimeconfig.cache
 C:\Users\freed\source\repos\signalr-charthub-demo\CoreServer\CoreServer\obj\Debug\net5.0\ref\CoreServer.dll
+C:\Users\freed\source\repos\signalr-charthub-demo\CoreServer\CoreServer\bin\Debug\net5.0\DinkToPdf.dll
+C:\Users\freed\source\repos\signalr-charthub-demo\CoreServer\CoreServer\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\freed\source\repos\signalr-charthub-demo\CoreServer\CoreServer\bin\Debug\net5.0\CoreServer.Communication.dll
+C:\Users\freed\source\repos\signalr-charthub-demo\CoreServer\CoreServer\bin\Debug\net5.0\CoreServer.Communication.pdb

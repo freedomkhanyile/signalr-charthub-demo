@@ -26,7 +26,7 @@ export class AppComponent implements OnInit {
     this.getChartsFromApi();
   }
   getChartsFromApi() {
-    this.http.get('http://localhost:5001/api/charts').subscribe((data) => {
+    this.http.get('https://localhost:5001/api/charts').subscribe((data) => {
       console.log(data);
     });
   }
